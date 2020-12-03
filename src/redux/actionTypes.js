@@ -1,0 +1,1 @@
+//包含n个 action type 常量
